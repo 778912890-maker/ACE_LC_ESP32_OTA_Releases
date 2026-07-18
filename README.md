@@ -10,4 +10,4 @@ kept in a separate private repository.
 
 Current manifest URL:
 
-`https://raw.githubusercontent.com/778912890-maker/ACE_LC_ESP32_OTA_Releases/main/version.json`
+`https://github.com/778912890-maker/ACE_LC_ESP32_OTA_Releases/releases/latest/download/version.json`
