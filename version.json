@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.6",
-    "firmware_url":  "https://github.com/778912890-maker/ACE_LC_ESP32_OTA_Releases/releases/download/v4.0.6/ACE_LC_ESP32_V4_0_6.bin",
-    "size":  1594800,
-    "sha256":  "f104939926b35b79f7a67034a2263d87d77ca44808d4276dad2b1069151b69ca"
+    "version":  "4.1.0",
+    "firmware_url":  "https://github.com/778912890-maker/ACE_LC_ESP32_OTA_Releases/releases/download/v4.1.0/ACE_LC_ESP32_V4_1_0.bin",
+    "size":  1617312,
+    "sha256":  "c5ac91977fae5efc5fcfe5cf1b5be77b422e5a48ea6934a0e26facaf66a3d36b"
 }
